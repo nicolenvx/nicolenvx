@@ -6,11 +6,11 @@
 
 <p align="center">
   Me chamo Nicole Alves Valle, tenho 22 anos e sou natural de Guarujá, São Paulo.  
-  Sou formada em Técnico em Informática e atualmente curso Ciência da Computação na Universidade ESAMC de Santos.
+  Sou formada em Técnico em Informática pela escola Técnica Adélia e atualmente curso Ciência da Computação na Universidade ESAMC de Santos.
 </p>
 
 <p align="center">
-  Também faço curso de Engenharia de Software da IBM e possuo inglês nível B1 pelo curso Babbel.
+Além da graduação, faço curso de Engenharia de Software da IBM e possuo inglês nível B1 pelo curso Babbel.
 </p>
 
 <p align="center">
@@ -61,4 +61,3 @@
 - Desenvolvimento Full Stack.
 - Arquitetura de software.
 - Testes de software.
-- Aprimoramento contínuo em tecnologia e inglês.
