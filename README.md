@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  Também faço curso de Engenharia de Software da IBM e possuo inglês nível B1 pelo curso Babbel.
+</p>
+
+<p align="center">
   Sou apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.  
   Atualmente, estou em busca da minha primeira oportunidade de estágio como Desenvolvedora Full Stack, onde possa aprender, crescer e contribuir com a equipe.
 </p>
@@ -53,8 +57,8 @@
 
 ### 📌 Foco atual
 
-- Primeiro estágio
 - Desenvolvimento de software.
 - Desenvolvimento Full Stack.
 - Arquitetura de software.
 - Testes de software.
+- Aprimoramento contínuo em tecnologia e inglês.
